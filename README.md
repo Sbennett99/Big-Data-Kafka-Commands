@@ -21,3 +21,5 @@
 ```Bash
 .\bin\windows\kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic Rubiks_Cube_Algorithms --from-beginning
 ```
+
+![](FullKafkaSnip.PNG)
